@@ -1,7 +1,0 @@
-# test
-
-tetttt
-
-wasda
-
-newtest
